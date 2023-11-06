@@ -1,0 +1,23 @@
+{
+  "prompt_text": "heavily scratched metal surface with a rough, textured appearance, heavily damaged deep scratches",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3/textures/patches/a7e5fda6-a671-4dca-a865-ea71041c4dca.png",
+    "patch_id": "CiynFrrCL3"
+  },
+  "seamless_prompt_text": "heavily scratched metal surface with a rough, textured appearance, heavily damaged deep scratches",
+  "seamless_patch_scale": 0.8,
+  "upscale_prompt_text": "heavily scratched metal surface with a rough, textured appearance, heavily damaged deep scratches",
+  "upscale_resolution": 2048,
+  "is_seamless": true,
+  "pbr_mode": "shiny",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": true
+}

@@ -1,0 +1,23 @@
+{
+  "prompt_text": "asphalt road with traffic lines",
+  "patch": {
+    "ext": "png",
+    "dtype": "uint8",
+    "width": 512,
+    "height": 512,
+    "url": "https://static-dev.withpoly.com/v3-voronoi/textures/patches/ad590584-77d2-4d20-a9c8-7096a7b9e61f.png",
+    "patch_id": "bz2z5oikLy"
+  },
+  "seamless_prompt_text": "asphalt road with traffic lines",
+  "seamless_patch_scale": 1.13,
+  "upscale_prompt_text": "asphalt road with traffic lines",
+  "upscale_resolution": 4096,
+  "is_seamless": true,
+  "pbr_mode": "matte",
+  "pbr_generate_color": true,
+  "pbr_generate_normal": true,
+  "pbr_generate_height": true,
+  "pbr_generate_ao": true,
+  "pbr_generate_roughness": true,
+  "pbr_generate_metallic": false
+}
